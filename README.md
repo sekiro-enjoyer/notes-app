@@ -1,14 +1,22 @@
 Step 1 : Register a user
 <img width="839" height="622" alt="image" src="https://github.com/user-attachments/assets/d6a1f6ae-5566-45d1-ba7f-96c5c5c17c8e" />
 
+
+
 Step 2: Login the user
+
+
 <img width="460" height="624" alt="image" src="https://github.com/user-attachments/assets/e9c66826-caff-48e9-8374-48ec8186df71" />
 
+
 Step 3: Create a note
+
 Paste token here and pass the note in the body
 <img width="1002" height="371" alt="image" src="https://github.com/user-attachments/assets/d5979924-6781-43e6-b6d9-c3d408393612" />
 
 Output
+
+
 <img width="649" height="664" alt="image" src="https://github.com/user-attachments/assets/a474640f-c01d-4b6a-b60c-19cc914b3e75" />
 
 Step 4: Get Notes (Protected Route)
